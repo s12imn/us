@@ -13,6 +13,6 @@ function changeGreeting() {
             greeting.textContent = 'this ditance relationship makes us value each other so much and makes us building a very strong trust more than we can ever imagine. Each time I walk back to my apartment after being with you, I feel like the walk is so hard like there's a power puling me back tying my legs and my arms not allowing me to walk forward the gate, a power stronger than thgravity pulling me to your direction to your arms!!';
             break;
         default:
-            greeting.textContent = 'I love you'; // Reset to the initial greeting if none of the cases match
+            greeting.textContent = 'Hello my love'; // Reset to the initial greeting if none of the cases match
     }
 }
