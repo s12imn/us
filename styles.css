@@ -24,13 +24,25 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
 #container {
     margin-top: 20px; /* Adjust the value as needed */
 }
 
+#container {
+    text-align: center;
+}
+
+#container img {
+    max-width: 100%; /* Make the image responsive within its container */
+}
+
 #container h1 {
     font-size: 16px; /* Adjust the font size as needed */
+    margin-top: 10px; /* Add margin between the image and the heading */
+}
+
+#container button {
+    margin-top: 10px; /* Add margin between the heading and the button */
 }
 
 button {
