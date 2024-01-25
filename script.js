@@ -20,7 +20,7 @@ console.log(currentText);
             greeting.textContent = 'You are always worthy of this love ❤️ and of the deepest and purest love❤️, and you deserve to be seen❤️, understood❤️, and you always deserve to be held and cared for the way you held and care for everybody❤️, you were never too much my love you are alwyas enough❤️';
             break;
         case 'You are always worthy of this love ❤️ and of the deepest and purest love❤️, and you deserve to be seen❤️, understood❤️, and you always deserve to be held and cared for the way you held and care for everybody❤️, you were never too much my love you are alwyas enough❤️':
-            greeting.textContent = 'AND YOU WILL ALWAYS BE ENOUGH ❤️; an I LOVE YOU and I will ALWAYS LOVE YOU ❤️';
+            greeting.textContent = 'AND YOU WILL ALWAYS BE ENOUGH ❤️ I LOVE YOU and I will ALWAYS LOVE YOU ❤️';
             break;
         default:
             greeting.textContent = 'BABYYY ❤️'; // Reset to the initial greeting if none of the cases match
