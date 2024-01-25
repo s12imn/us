@@ -25,6 +25,14 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+#container {
+    margin-top: 20px; /* Adjust the value as needed */
+}
+
+#container h1 {
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
 button {
     padding: 10px;
     font-size: 16px;
