@@ -4,7 +4,7 @@ function Click() {
     var currentText = greeting.textContent;
 console.log(currentText);
     switch (currentText) {
-        case 'Hello my love':
+        case 'BABYYY':
             greeting.textContent = 'I want to tell you something';
             break;
         case 'I want to tell you something':
@@ -23,6 +23,6 @@ console.log(currentText);
             greeting.textContent = 'AND YOU WILL ALWAYS BE ENOUGH';
             break;
         default:
-            greeting.textContent = 'Hello my love'; // Reset to the initial greeting if none of the cases match
+            greeting.textContent = 'BABYYY'; // Reset to the initial greeting if none of the cases match
     }
 }
