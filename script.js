@@ -1,7 +1,7 @@
 function changeGreeting() {
     var greeting = document.querySelector('h1');
     var currentText = greeting.textContent;
-
+console.log(currentText);
     switch (currentText) {
         case 'Hello my love':
             greeting.textContent = 'I want to tell you something';
