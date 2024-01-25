@@ -8,12 +8,15 @@ body {
     align-items: center;
     height: 100vh;
 }
-.responsive-image {
-    max-width: 100%; /* The image will not exceed its original size */
+
+.custom-image {
+    width: 300px; /* Adjust as needed */
     height: auto; /* Automatically adjust height based on the width */
-    display: block; /* Remove extra space under the image */
-    margin: auto; /* Center the image */
+    border-radius: 10px; /* Optionally add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optionally add a shadow */
 }
+
+
 #container {
     text-align: center;
     background-color: #fff;
