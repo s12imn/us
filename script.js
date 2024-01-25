@@ -17,9 +17,9 @@ console.log(currentText);
             greeting.textContent = 'I hope that with this relationship you will know how worthy you always were and are and will be, and I ant to let you know that you were never asking for too much before and I hope that this love will make up for all the times you were asked to slaughter your instincts or you tried to break yourself down just to comfort or impress someone who was not meant to you.';
             break;
         case 'I hope that with this relationship you will know how worthy you always were and are and will be, and I ant to let you know that you were never asking for too much before and I hope that this love will make up for all the times you were asked to slaughter your instincts or you tried to break yourself down just to comfort or impress someone who was not meant to you.':
-            greeting.textContent = 'You are always aorthy of this love and of the deepest and purest love, and you deserve to be seen, understood, and you always deserve to be held and cared for the way you held and care for evreybody, you were never too much my love you are alwyas enough';
+            greeting.textContent = 'You are always worthy of this love and of the deepest and purest love, and you deserve to be seen, understood, and you always deserve to be held and cared for the way you held and care for evreybody, you were never too much my love you are alwyas enough';
             break;
-        case 'You are always aorthy of this love and of the deepest and purest love, and you deserve to be seen, understood, and you always deserve to be held and cared for the way you held and care for evreybody, you were never too much my love you are alwyas enough':
+        case 'You are always worthy of this love and of the deepest and purest love, and you deserve to be seen, understood, and you always deserve to be held and cared for the way you held and care for evreybody, you were never too much my love you are alwyas enough':
             greeting.textContent = 'AND YOU WILL ALWAYS BE ENOUGH';
             break;
         default:
