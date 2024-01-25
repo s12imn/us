@@ -8,6 +8,12 @@ body {
     align-items: center;
     height: 50vh;
 }
+body {
+    width: 100%; /* Set the width of the body to 100% of the viewport */
+    height: 100vh; /* Set the height of the body to 100% of the viewport height */
+    margin: 0; /* Remove default margin to extend to the full width of the viewport */
+    padding: 0; /* Remove default padding */
+}
 
 .custom-image {
     width: 130px; /* Adjust as needed */
