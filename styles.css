@@ -9,7 +9,7 @@ body {
     height: 100vh;
 }
 
-.custom-image {
+custom-image {
     width: 300px; /* Adjust as needed */
     height: auto; /* Automatically adjust height based on the width */
     border-radius: 10px; /* Optionally add rounded corners */
