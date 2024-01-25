@@ -1,4 +1,5 @@
 function changeGreeting() {
+    console.log('Function executed');
     var greeting = document.querySelector('h1');
     var currentText = greeting.textContent;
 console.log(currentText);
