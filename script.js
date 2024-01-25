@@ -4,7 +4,7 @@ function Click() {
     var currentText = greeting.textContent;
 console.log(currentText);
     switch (currentText) {
-        case 'BABYYY &#10084;':
+        case 'BABYYY ❤️':
             greeting.textContent = 'I want to tell you something';
             break;
         case 'I want to tell you something':
@@ -20,9 +20,9 @@ console.log(currentText);
             greeting.textContent = 'You are always worthy of this love and of the deepest and purest love, and you deserve to be seen, understood, and you always deserve to be held and cared for the way you held and care for evreybody, you were never too much my love you are alwyas enough';
             break;
         case 'You are always worthy of this love and of the deepest and purest love, and you deserve to be seen, understood, and you always deserve to be held and cared for the way you held and care for evreybody, you were never too much my love you are alwyas enough':
-            greeting.textContent = 'AND YOU WILL ALWAYS BE ENOUGH &#10084; an I LOVE YOU and I will ALWAYS LOVE YOU &#10084;';
+            greeting.textContent = 'AND YOU WILL ALWAYS BE ENOUGH ❤️; an I LOVE YOU and I will ALWAYS LOVE YOU ❤️';
             break;
         default:
-            greeting.textContent = 'BABYYY &#10084;'; // Reset to the initial greeting if none of the cases match
+            greeting.textContent = 'BABYYY ❤️'; // Reset to the initial greeting if none of the cases match
     }
 }
