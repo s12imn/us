@@ -8,7 +8,12 @@ body {
     align-items: center;
     height: 100vh;
 }
-
+.responsive-image {
+    max-width: 100%; /* The image will not exceed its original size */
+    height: auto; /* Automatically adjust height based on the width */
+    display: block; /* Remove extra space under the image */
+    margin: auto; /* Center the image */
+}
 #container {
     text-align: center;
     background-color: #fff;
