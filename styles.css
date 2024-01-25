@@ -10,8 +10,8 @@ body {
 }
 
 .custom-image {
-    width: 200px; /* Adjust as needed */
-    height: 500px; /* Automatically adjust height based on the width */
+    width: 130px; /* Adjust as needed */
+    height: 260px; /* Automatically adjust height based on the width */
     border-radius: 5px; /* Optionally add rounded corners */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optionally add a shadow */
 }
